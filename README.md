@@ -6,4 +6,3 @@ Tutorial Penggunaan YT:
 
 Credits By : [Zangtics Digital](https://github.com/RCLDevelopers)
 
-#DWYOR
